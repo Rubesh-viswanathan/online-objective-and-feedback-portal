@@ -1,0 +1,100 @@
+[09-Sep-2018 22:56:39 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[09-Sep-2018 22:56:41 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[09-Sep-2018 22:56:41 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/experimentsite/public_html/srec/admin/manage_students.php on line 86
+[09-Sep-2018 22:56:41 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/experimentsite/public_html/srec/admin/manage_students.php on line 87
+[09-Sep-2018 22:56:44 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[09-Sep-2018 22:57:03 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[09-Sep-2018 22:57:03 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/staffregdb.php on line 10
+[09-Sep-2018 22:57:03 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/experimentsite/public_html/srec/admin/staffregdb.php on line 13
+[09-Sep-2018 22:57:03 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/experimentsite/public_html/srec/admin/staffregdb.php on line 14
+[09-Sep-2018 22:57:03 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/experimentsite/public_html/srec/admin/staffregdb.php on line 18
+[09-Sep-2018 22:57:03 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/experimentsite/public_html/srec/admin/staffregdb.php on line 20
+[09-Sep-2018 22:57:08 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[09-Sep-2018 22:57:25 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[09-Sep-2018 22:57:25 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/sturegdb.php on line 12
+[09-Sep-2018 22:57:25 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/experimentsite/public_html/srec/admin/sturegdb.php on line 14
+[09-Sep-2018 22:57:25 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/experimentsite/public_html/srec/admin/sturegdb.php on line 15
+[09-Sep-2018 22:57:26 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[09-Sep-2018 22:57:26 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/student_reg.php on line 98
+[09-Sep-2018 22:57:29 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[09-Sep-2018 22:57:29 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/experimentsite/public_html/srec/admin/manage_students.php on line 86
+[09-Sep-2018 22:57:29 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/experimentsite/public_html/srec/admin/manage_students.php on line 87
+[09-Sep-2018 22:57:31 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[09-Sep-2018 22:57:32 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[09-Sep-2018 22:57:32 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/experimentsite/public_html/srec/admin/manage_staffs.php on line 86
+[09-Sep-2018 22:57:32 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/experimentsite/public_html/srec/admin/manage_staffs.php on line 87
+[09-Sep-2018 22:57:35 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[09-Sep-2018 22:57:35 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/experimentsite/public_html/srec/admin/viewtest.php on line 77
+[09-Sep-2018 22:57:35 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/experimentsite/public_html/srec/admin/viewtest.php on line 78
+[10-Sep-2018 01:31:58 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 56
+[10-Sep-2018 01:32:05 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[10-Sep-2018 01:32:05 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/experimentsite/public_html/srec/admin/manage_students.php on line 86
+[10-Sep-2018 01:32:05 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/experimentsite/public_html/srec/admin/manage_students.php on line 87
+[10-Sep-2018 01:32:05 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[10-Sep-2018 01:32:05 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/experimentsite/public_html/srec/admin/manage_students.php on line 86
+[10-Sep-2018 01:32:05 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/experimentsite/public_html/srec/admin/manage_students.php on line 87
+[10-Sep-2018 01:32:21 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[10-Sep-2018 01:32:21 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/experimentsite/public_html/srec/admin/manage_students.php on line 86
+[10-Sep-2018 01:32:21 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/experimentsite/public_html/srec/admin/manage_students.php on line 87
+[10-Sep-2018 01:32:21 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[10-Sep-2018 01:32:21 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/manage_students.php on line 64
+[10-Sep-2018 01:32:21 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/experimentsite/public_html/srec/admin/manage_students.php on line 86
+[10-Sep-2018 01:32:21 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/experimentsite/public_html/srec/admin/manage_students.php on line 87
+[10-Sep-2018 01:32:23 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/experimentsite/public_html/srec/admin/connect.php on line 6
+[10-Sep-2018 01:32:23 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/experimentsite/public_html/srec/admin/manage_students.php on line 86
+[10-Sep-2018 01:32:23 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/experimentsite/public_html/srec/admin/manage_students.php on line 87
+[10-Sep-2018 10:37:07 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_nojvvg4fp79fcti9auqcq4i6r4, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 10:37:07 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 10:37:18 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_nojvvg4fp79fcti9auqcq4i6r4, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 10:37:18 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 10:50:21 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_nq4mdmjhb4kshvblt7h4j5r2s1, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 10:50:21 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 10:54:08 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_nq4mdmjhb4kshvblt7h4j5r2s1, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 10:54:08 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 10:58:10 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_nq4mdmjhb4kshvblt7h4j5r2s1, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 10:58:10 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:03:09 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_nq4mdmjhb4kshvblt7h4j5r2s1, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:03:09 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:08:25 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_nq4mdmjhb4kshvblt7h4j5r2s1, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:08:25 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:12:52 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_baltjlbcjp6bcn8n9goni298v0, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:12:52 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:13:06 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_baltjlbcjp6bcn8n9goni298v0, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:13:06 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:13:20 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_baltjlbcjp6bcn8n9goni298v0, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:13:20 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:13:33 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_baltjlbcjp6bcn8n9goni298v0, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:13:33 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:14:00 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_baltjlbcjp6bcn8n9goni298v0, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:14:00 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:14:46 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_baltjlbcjp6bcn8n9goni298v0, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:14:46 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:15:13 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_nq4mdmjhb4kshvblt7h4j5r2s1, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:15:13 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:16:37 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_nq4mdmjhb4kshvblt7h4j5r2s1, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:16:37 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:16:37 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_pad1jun7agetgulvbgc87annt3, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:16:37 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:18:39 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:19:33 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_baltjlbcjp6bcn8n9goni298v0, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:19:33 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:19:46 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_baltjlbcjp6bcn8n9goni298v0, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:19:46 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:20:24 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_baltjlbcjp6bcn8n9goni298v0, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:20:24 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:21:02 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_baltjlbcjp6bcn8n9goni298v0, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:21:02 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:21:20 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_baltjlbcjp6bcn8n9goni298v0, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:21:20 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:21:33 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_baltjlbcjp6bcn8n9goni298v0, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/home.php on line 3
+[10-Sep-2018 11:21:33 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 11:25:01 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_eecv7a52r3gdh675n4jdvvkuk3, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/remove.php on line 3
+[10-Sep-2018 11:25:01 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/remove.php on line 113
+[10-Sep-2018 11:28:10 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_m22i7ikg887kkd41mbatgrkbe5, O_RDWR) failed: Disk quota exceeded (122) in /home/experimentsite/public_html/srec/admin/remove.php on line 3
+[10-Sep-2018 11:28:10 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/remove.php on line 113
+[10-Sep-2018 11:31:50 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/remove.php on line 113
+[10-Sep-2018 11:31:50 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/remove.php on line 113
+[10-Sep-2018 11:35:23 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/remove.php on line 113
+[10-Sep-2018 12:01:19 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/remove.php on line 113
+[10-Sep-2018 12:10:39 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
+[10-Sep-2018 12:10:54 Etc/GMT] PHP Notice:  Undefined index: login_user in /home/experimentsite/public_html/srec/admin/home.php on line 111
